@@ -1,0 +1,17 @@
+.theme-switcher {
+    margin-top: 20px;
+}
+
+.theme-display {
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.theme-display-light {
+    background-color: #f0f0f0;
+}
+
+.theme-display-dark {
+    background-color: #333;
+    color: #fff;
+}
